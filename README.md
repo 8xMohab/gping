@@ -9,7 +9,7 @@ This is **my version of the ping command** with a simpler, cleaner output. It st
 2. Clone the repo:
 
    ```bash
-   git clone https://github.com/yourusername/gping.git
+   git clone https://github.com/8xMohab/gping.git
    ```
 
 3. Change to the repo directory:
@@ -47,7 +47,7 @@ This is **my version of the ping command** with a simpler, cleaner output. It st
 2. Clone the repo:
 
    ```powershell
-   git clone https://github.com/yourusername/gping.git
+   git clone https://github.com/8xMohab/gping.git
    ```
 
 3. Navigate to the repo directory:
